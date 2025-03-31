@@ -14,7 +14,7 @@ seo:
   open_graph_type: null
   no_index: false
 translations:
-  selected_page_translation: de-DE
+  selected_page_translation: None
   translate_es_ES: true
   url_translation_es_ES: index.html
   translate_de_DE: true
@@ -43,7 +43,7 @@ content_blocks:
           non-technical people to maintain a multilingual site.
 
 
-          This is **new** and should *now* work.
+          Test this still works?
         es_ES_translation: >-
           Un sitio de demostración para el conector multilingüe
           Rosey-CloudCannon para Astro.
@@ -55,7 +55,7 @@ content_blocks:
           mantengan un sitio multilingüe.
 
 
-          Esto es **nuevo** y *ahora* debería funcionar. QA'd in the data file.
+          ¿Probar que esto todavía funciona?
         de_DE_translation: >-
           Eine Demo-Site für den Rosey-CloudCannon Multilingual Connector für
           Astro.
@@ -67,8 +67,7 @@ content_blocks:
           mehrsprachige Website zu pflegen.
 
 
-          Das ist **neu** und sollte *jetzt* **QA'd in the visual**
-          funktionieren.
+          Test das funktioniert immer noch?
         fr_FR_translation: >-
           Un site de démonstration pour le connecteur multilingue
           Rosey-CloudCannon pour Astro.
@@ -80,7 +79,7 @@ content_blocks:
           la gestion d'un site multilingue.
 
 
-          Il s'agit d'une **nouveauté** qui devrait *désormais* fonctionner.
+          Le test fonctionne-t-il encore ?
       color: "#393939"
     image:
       image_path: /src/assets/images/featured-image-5.jpg
