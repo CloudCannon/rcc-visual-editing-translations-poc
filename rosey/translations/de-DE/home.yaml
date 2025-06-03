@@ -18,10 +18,10 @@ _inputs:
             - keep-what-you-need-delete-the-rest
             - markdown:a-demo-site-for-the-rosey-cloudcannon-multilingual-connector-for-astro
             - markdown:it's-cold-but-it's-beautiful-get-tough-with-it-get-strong-brown-is-such-a-nice-color
-            - markdown:test-this-still-works?
             - markdown:that-is-when-you-can-experience-true-joy-when-you-have-no-fear-maybe-just-to-play-a-little-we'll-put-a-little-tree-here
             - markdown:they-say-everything-looks-better-with-odd-numbers-of-things-but-sometimes-i-put-even-numbers—just-to-upset-the-critics
             - markdown:this-content-and-it's-translations-are-editable-from-the-visual-editor-as-well-as-data-files-providing-an-easy-to-use-interface-for-non-technical-people-to-maintain-a-multilingual-site
+            - markdown:this-is-just-experimental-and-probably-shouldn't-be-used-in-production
             - rosey-cloudcannon-multilingual-connector
             - rss-feed
   blog:
@@ -95,23 +95,6 @@ _inputs:
       icon: translate
       content: It's cold, but it's beautiful. Get tough with it, get strong. Brown is
         such a nice color.
-  markdown:test-this-still-works?:
-    label: Test this still works?
-    hidden: false
-    type: markdown
-    options:
-      bold: true
-      format: p h1 h2 h3 h4
-      italic: true
-      link: true
-      undo: true
-      redo: true
-      removeformat: true
-      copyformatting: true
-      blockquote: true
-    comment: "[See on
-      page](https://wooden-fjord.cloudvent.net/#:~:text=Test%20this%20still%20w\
-      orks?)"
   markdown:that-is-when-you-can-experience-true-joy-when-you-have-no-fear-maybe-just-to-play-a-little-we'll-put-a-little-tree-here:
     label: That is when you can experience true joy, ...
     hidden: false
@@ -182,6 +165,28 @@ _inputs:
       content: This content and it's translations are editable from the visual editor,
         as well as data files, providing an easy to use interface for
         non-technical people to maintain a multilingual site.
+  markdown:this-is-just-experimental-and-probably-shouldn't-be-used-in-production:
+    label: This is just experimental, and probably sh...
+    hidden: false
+    type: markdown
+    options:
+      bold: true
+      format: p h1 h2 h3 h4
+      italic: true
+      link: true
+      undo: true
+      redo: true
+      removeformat: true
+      copyformatting: true
+      blockquote: true
+    comment: "[See on
+      page](https://wooden-fjord.cloudvent.net/#:~:text=This%20is%20just,used%2\
+      0in%20production)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: This is just experimental, and probably shouldn't be used in production.
   rosey-cloudcannon-multilingual-connector:
     label: Rosey - CloudCannon Multilingual Connector
     hidden: false
@@ -204,7 +209,6 @@ markdown:a-demo-site-for-the-rosey-cloudcannon-multilingual-connector-for-astro:
 markdown:it's-cold-but-it's-beautiful-get-tough-with-it-get-strong-brown-is-such-a-nice-color:
   Es ist kalt, aber es ist schön. Werden Sie hart damit, werden Sie stark. Braun
   ist so eine schöne Farbe.
-markdown:test-this-still-works?: Test das funktioniert immer noch?
 markdown:that-is-when-you-can-experience-true-joy-when-you-have-no-fear-maybe-just-to-play-a-little-we'll-put-a-little-tree-here:
   Das ist, wenn du **wahre** **Freude** erleben kannst, wenn du keine Angst
   hast. Vielleicht, nur um ein bisschen zu spielen, stellen wir hier einen
@@ -218,5 +222,8 @@ markdown:this-content-and-it's-translations-are-editable-from-the-visual-editor-
   bearbeitet werden, ebenso wie Datendateien, die eine einfach zu bedienende
   Oberfläche für nicht-technische Personen bieten, um eine mehrsprachige Website
   zu pflegen.
+markdown:this-is-just-experimental-and-probably-shouldn't-be-used-in-production:
+  Dies ist nur ein Experiment und sollte wahrscheinlich nicht in der Produktion
+  verwendet werden.
 rosey-cloudcannon-multilingual-connector: " Rosey - CloudCannon Mehrsprachiger Konnektor "
 rss-feed: RSS-Feed
