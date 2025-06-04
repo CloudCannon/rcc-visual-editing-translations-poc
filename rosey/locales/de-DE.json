@@ -7,6 +7,50 @@
 		"original": " RSS Feed ",
 		"value": "RSS-Feed"
 	},
+	"cloudcannon": {
+		"original": " CloudCannon ",
+		"value": "CloudCannon"
+	},
+	"github": {
+		"original": " GitHub ",
+		"value": "GitHub (Englisch)"
+	},
+	"keep-what-you-need-delete-the-rest": {
+		"original": " Keep what you need. Delete the rest. ",
+		"value": "Behalten Sie, was Sie brauchen Löschen Sie den Rest"
+	},
+	"markdown:a-demo-site-for-the-rosey-cloudcannon-multilingual-connector-for-astro": {
+		"original": "A demo site for the Rosey-CloudCannon Multilingual Connector for Astro.",
+		"value": "<p>Eine Demo-Site für den Rosey-CloudCannon Multilingual Connector für Astro.</p>\n"
+	},
+	"markdown:it's-cold-but-it's-beautiful-get-tough-with-it-get-strong-brown-is-such-a-nice-color": {
+		"original": "It's cold, but it's beautiful. Get tough with it, get strong. Brown is such a nice color.",
+		"value": "<p>Es ist kalt, aber es ist schön. Werden Sie hart damit, werden Sie stark. Braun ist so eine schöne Farbe.</p>\n"
+	},
+	"markdown:that-is-when-you-can-experience-true-joy-when-you-have-no-fear-maybe-just-to-play-a-little-we'll-put-a-little-tree-here": {
+		"original": "That is when you can experience <strong>true</strong> <strong>joy</strong>, when you have no fear. Maybe, just to play a little, we'll put a little tree here.",
+		"value": "<p>Das ist, wenn du <strong>wahre</strong> <strong>Freude</strong> erleben kannst, wenn du keine Angst hast. Vielleicht, nur um ein bisschen zu spielen, stellen wir hier einen kleinen Baum auf.</p>\n"
+	},
+	"markdown:they-say-everything-looks-better-with-odd-numbers-of-things-but-sometimes-i-put-even-numbers—just-to-upset-the-critics": {
+		"original": "They say <em>everything</em> looks better with odd numbers of things. But sometimes I put even numbers—just to upset the critics.",
+		"value": "<p>Man sagt, dass <em>alles</em> besser aussieht, wenn es eine ungerade Anzahl von Dingen gibt. Aber manchmal setze ich gerade Zahlen – nur um die Kritiker zu verärgern.</p>\n"
+	},
+	"markdown:this-content-and-it's-translations-are-editable-from-the-visual-editor-as-well-as-data-files-providing-an-easy-to-use-interface-for-non-technical-people-to-maintain-a-multilingual-site": {
+		"original": "This content and it's translations are editable from the visual editor, as well as data files, providing an easy to use interface for non-technical people to maintain a multilingual site.",
+		"value": "<p>Dieser Inhalt und seine Übersetzungen können über den visuellen Editor bearbeitet werden, ebenso wie Datendateien, die eine einfach zu bedienende Oberfläche für nicht-technische Personen bieten, um eine mehrsprachige Website zu pflegen.</p>\n"
+	},
+	"markdown:this-is-just-experimental-and-probably-shouldn't-be-used-in-production": {
+		"original": "This is just experimental, and probably shouldn't be used in production.",
+		"value": "<p>Dies ist nur ein Experiment und sollte wahrscheinlich nicht in der Produktion verwendet werden.</p>\n"
+	},
+	"markdown:this-should-auto-translate-through-smartling": {
+		"original": "This should auto translate through Smartling.",
+		"value": "<p>Dies sollte automatisch durch Smartling übersetzt werden.</p>\n"
+	},
+	"rosey-cloudcannon-multilingual-connector": {
+		"original": " Rosey - CloudCannon Multilingual Connector ",
+		"value": " Rosey - CloudCannon Mehrsprachiger Konnektor "
+	},
 	"markdown:a-new-test-paragraph-that-has-to-be-long-enough-words-but-end-in-a-certain-way": {
 		"original": "A new. test paragraph that has to be long enough words but end in a certain, way.",
 		"value": "<p>Ein neuer Testabsatz, der lang genug sein muss, aber auf eine bestimmte Weise endet</p>\n"
@@ -46,45 +90,5 @@
 	"yay-we-support-snippets-now!": {
 		"original": " Yay, we support snippets now! ",
 		"value": "Juhu, wir unterstützen jetzt Snippets!"
-	},
-	"cloudcannon": {
-		"original": " CloudCannon ",
-		"value": "CloudCannon"
-	},
-	"github": {
-		"original": " GitHub ",
-		"value": "GitHub (Englisch)"
-	},
-	"keep-what-you-need-delete-the-rest": {
-		"original": " Keep what you need. Delete the rest. ",
-		"value": "Behalten Sie, was Sie brauchen Löschen Sie den Rest"
-	},
-	"markdown:a-demo-site-for-the-rosey-cloudcannon-multilingual-connector-for-astro": {
-		"original": "A demo site for the Rosey-CloudCannon Multilingual Connector for Astro.",
-		"value": "<p>Eine Demo-Site für den Rosey-CloudCannon Multilingual Connector für Astro.</p>\n"
-	},
-	"markdown:it's-cold-but-it's-beautiful-get-tough-with-it-get-strong-brown-is-such-a-nice-color": {
-		"original": "It's cold, but it's beautiful. Get tough with it, get strong. Brown is such a nice color.",
-		"value": "<p>Es ist kalt, aber es ist schön. Werden Sie hart damit, werden Sie stark. Braun ist so eine schöne Farbe.</p>\n"
-	},
-	"markdown:that-is-when-you-can-experience-true-joy-when-you-have-no-fear-maybe-just-to-play-a-little-we'll-put-a-little-tree-here": {
-		"original": "That is when you can experience <strong>true</strong> <strong>joy</strong>, when you have no fear. Maybe, just to play a little, we'll put a little tree here.",
-		"value": "<p>Das ist, wenn du <strong>wahre</strong> <strong>Freude</strong> erleben kannst, wenn du keine Angst hast. Vielleicht, nur um ein bisschen zu spielen, stellen wir hier einen kleinen Baum auf.</p>\n"
-	},
-	"markdown:they-say-everything-looks-better-with-odd-numbers-of-things-but-sometimes-i-put-even-numbers—just-to-upset-the-critics": {
-		"original": "They say <em>everything</em> looks better with odd numbers of things. But sometimes I put even numbers—just to upset the critics.",
-		"value": "<p>Man sagt, dass <em>alles</em> besser aussieht, wenn es eine ungerade Anzahl von Dingen gibt. Aber manchmal setze ich gerade Zahlen – nur um die Kritiker zu verärgern.</p>\n"
-	},
-	"markdown:this-content-and-it's-translations-are-editable-from-the-visual-editor-as-well-as-data-files-providing-an-easy-to-use-interface-for-non-technical-people-to-maintain-a-multilingual-site": {
-		"original": "This content and it's translations are editable from the visual editor, as well as data files, providing an easy to use interface for non-technical people to maintain a multilingual site.",
-		"value": "<p>Dieser Inhalt und seine Übersetzungen können über den visuellen Editor bearbeitet werden, ebenso wie Datendateien, die eine einfach zu bedienende Oberfläche für nicht-technische Personen bieten, um eine mehrsprachige Website zu pflegen.</p>\n"
-	},
-	"markdown:this-is-just-experimental-and-probably-shouldn't-be-used-in-production": {
-		"original": "This is just experimental, and probably shouldn't be used in production.",
-		"value": "<p>Dies ist nur ein Experiment und sollte wahrscheinlich nicht in der Produktion verwendet werden.</p>\n"
-	},
-	"rosey-cloudcannon-multilingual-connector": {
-		"original": " Rosey - CloudCannon Multilingual Connector ",
-		"value": " Rosey - CloudCannon Mehrsprachiger Konnektor "
 	}
 }

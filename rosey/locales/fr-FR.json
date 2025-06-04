@@ -43,6 +43,10 @@
 		"original": "This is just experimental, and probably shouldn't be used in production.",
 		"value": "<p>Il s'agit d'une méthode expérimentale qui ne devrait pas être utilisée en production.</p>\n"
 	},
+	"markdown:this-should-auto-translate-through-smartling": {
+		"original": "This should auto translate through Smartling.",
+		"value": "<p>Cela devrait être traduit automatiquement par Smartling.</p>\n"
+	},
 	"rosey-cloudcannon-multilingual-connector": {
 		"original": " Rosey - CloudCannon Multilingual Connector ",
 		"value": " Rosey - Connecteur multilingue CloudCannon "
