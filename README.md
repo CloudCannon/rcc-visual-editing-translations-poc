@@ -2,6 +2,9 @@
 
 This is an **experimental** proof of concept demonstrating using the Rosey CloudCannon Connector, with visual translations.
 
+[Demo site](https://powerful-onion.cloudvent.net/)
+[CC site link](https://app.cloudcannon.com/16479/editor#sites/131840/) (for CC org members)
+
 Translations are stored on each page as frontmatter, and kept in sync with the translation data files that would normally be present with the [RCC](https://github.com/CloudCannon/rcc). Keeping the translations stored on each page means we can make changes to translations and visually preview them on the page they'll actually be used on.
 
 ## Requirements
